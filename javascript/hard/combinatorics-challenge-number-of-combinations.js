@@ -18,3 +18,4 @@ function CombinatoricsChallenge(num) {
     }
     return CombinatoricsChallenge(num-1) + CombinatoricsChallenge(num-2);
 }
+
